@@ -1,0 +1,93 @@
+Nuestro Data Frame tiene 11823 filas y 89 columnas
+Cada columna:
+    ID, identificador de la vivienda y es númerico
+    Listing Url, la direccion web donde podemos ver la propiead
+    Scrape ID, identificador del scraping
+    Last Scraped, Fecha del ultimo scraping
+
+    Name, el nombre del listado
+    Summary, Resumen del listado (del alojamiento)
+    Space, detalles adicionales sobre el espacio
+    Description, descripcion detallada del espacio
+    Experience Offered, ofrecen experiencieas adicionales a los huéspedes
+    Neighborhood Overview, Breve descripción del vecindario
+    Notes, notas adicionales sobre las reglas o cacacterísticas del alojamiento
+    Transit, información sobre el transporte
+    Acces, detalles sobre el acceso
+    Interaction, información sobre la interacción de los anfitriones
+    House Rules, reglas de la casa
+    Trumbanail Url, la Url en miniatura
+    Medium Url, Url de la imagen mediana
+    Picture Url, Url para la imagen de la propiedad en tamaño grande 
+    Xl Picture Url, Url imagen grande
+    Host ID, identificador del anfitrión
+    Host Url, la Url del perfil del anfitrion
+    Host Name, Nombre del anfitrion de la propiedad
+    Host Since, Fecha en que comenzo a estar activo el anfitrión
+    Host Location, ubicación del anfitrión
+    Host About, información sobre el anfitrión
+    Host Response Time, Tiempo de respuesta del anfitrión a los huéspedes
+    Host Responde Rate, La tasa de respuesta del anfitrión
+    Host Acceptance Rate, La tasa de aceptación del anfitrión
+    Host Thumbnail Url, Url de la miniatura del anfitrión
+    Host Picture Url, Url de la imagen del anfitrión
+    Host Neighbourhood, Vecindario
+    Host Listings Count, número de listados del anfitrion
+    Host Total Listings Count, número total de listados
+    Host Verifications, verificaciones del anfitrión
+    Street, Dirección
+    Neighbourdhood, listado del vecindario
+    Neighbourdhood Cleansed, vecindario limpio
+    Neighbourdhood Group Cleanse, Grupo de vecindario
+    City, ciudad
+    State, estado
+    Zipcode, Código postal
+    Market, Mercado del listado
+    Smart Location, Ubicación del listado
+    Country Code, Código del país
+    Country, País del listado
+    Latitude, Latitud 
+    Longitude, Longuitud
+    Property Type, Tipo de propiedad
+    Room Type, Tipo de habitacion
+    Accommodates, número de personas que pueden alojarse
+    Bathrooms, número de baños
+    Bedrooms, número de dormitorios
+    Beds, número de camas
+    Bed Type, Tipo de camas
+    Amenitiesm, Comodidades
+    Square Feet, metros cuadrados
+    Price, precio
+    Weekly Price, precio semanal
+    Monthly Price, precio mensual
+    Security Deposit, Deposito de seguridad
+    Cleaning Fee, precio de limpieza
+    Guest Included, Número de huespedes incluidos
+    Extra People, tarifa por persona adicional
+    Minium Nights, número mínimo de noches
+    Maxium Nights, número máximo de noches
+    Calendar Updated, fecha de la útima actualización del calendario
+    Has Availabilty, Diposnibilidad
+    Availability 30, Disponibilidad en los proximos 30 dias
+    Availability 60
+    Availability 90
+    Availability 365
+    Calendar last Scraped, Fecha del ultimo scraping del calendario
+    Number of Reviews, número de reseñas
+    First Review, fecha de la primera reseña
+    Last Rieview, fecha de la última reseña
+    Review Scores Rating, puntuación de la reseña
+    Review Scores Accuracy, puntuación de precisión de la reseña
+    Review Scores Cleanliness, puntuación de limpieza de la reseña
+    Review Scores Checkin, puntuación del check-in de la reseña
+    Review Scores Communication, puntuación de la comunicación  de la reseña
+    Review Scores Location, puntuación de la ubicación de la reseña
+    Review Scores Value, puntuacuión de valor de la reseña
+    License, Licencia
+    Jurisdiction Names, nomnre de jurisdiciones
+    Cancellation Policy, política de cancelación
+    Calculed host listings count, numero calculado de los listados del anfitrión
+    Reviews per Month, reseñas por mes 
+    Geolocation, Geolocalización
+    Features, Características
+
